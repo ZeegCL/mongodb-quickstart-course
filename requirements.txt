@@ -1,0 +1,6 @@
+pymongo
+mongoengine
+tqdm
+colorama
+python-dateutilpython
+dotenv
