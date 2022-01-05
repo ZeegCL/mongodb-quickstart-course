@@ -3,4 +3,4 @@ mongoengine
 tqdm
 colorama
 python-dateutilpython
-dotenv
+python-dotenv
